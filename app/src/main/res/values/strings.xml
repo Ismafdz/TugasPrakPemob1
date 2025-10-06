@@ -45,4 +45,6 @@ informasi, jaringan komputer, dan kecerdasan buatan.
         Lulusan Program Studi Informatika Unsoed sebagian besar bekerja sebagai tenaga ahli di bidang perekayasaan perangkat lunak (Programmer, Analis Sistem, Manajer Proyek, Database Administrator), Wirausahawan Informatika dan Dosen/Peneliti.
     </string>
     <string name="back">previous</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
